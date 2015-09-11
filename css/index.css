@@ -6,8 +6,8 @@
 body{background: #fff}
 .caifu-mode6{width: 960px;margin: 50px auto;}
 .caifu-mode6 .caifu-mode5divbox{border-radius: 5px;padding: 10px;border: 1px solid #264d73;margin-bottom: 20px;}
-.caifu-mode5divbox .caifu-coloryel{color: #f0311f;}
-.caifu-mode5divbox  .caifu-colorhei{color: #264d73}
+.caifu-mode5divbox .caifu-coloryel{color: #f0311f;line-height: 32px;}
+.caifu-mode5divbox  .caifu-colorhei{color: #264d73;line-height:35px;}
 .box{width: 960px;margin: 50px auto;}
 .box ul{width: 100%;padding: 0}
 .box ul li{list-style-type: none;width: 100%;margin: 10px 0;text-decoration: none;}
