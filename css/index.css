@@ -9,8 +9,9 @@ body{background: #fff}
 .caifu-mode5divbox .caifu-coloryel{color: #f0311f;line-height: 32px;}
 .caifu-mode5divbox  .caifu-colorhei{color: #264d73;line-height:35px;}
 .box{width: 960px;margin: 50px auto;}
-.box ul{width: 100%;padding: 0}
-.box ul li{list-style-type: none;width: 100%;margin: 10px 0;text-decoration: none;}
+.box .text{width: 100%;padding: 0}
+.box .text li{list-style-type: none;width: 100%;margin: 10px 0;text-decoration: none;}
+.text li a{text-decoration: none;}
 .case_item {width: 960px;margin: 0 auto;}
 .case_item .pull_deals {background:#f0311f; width:100px;border-radius: 5px;text-align:center;color: #fff;padding: 10px 0;cursor: pointer;}
 .pull_box i{font-style: normal;line-height: 25px;height: 25px;display: inline-block;}
